@@ -1,0 +1,29 @@
+.home-container-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: rgb(255, 255, 255, 0.5);
+}
+
+.center-vertical {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  background: #000000;
+  background: -webkit-linear-gradient(180deg, #434343, #000000);
+  background: linear-gradient(180deg, #434343, #000000);
+
+  color: white;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Manrope", sans-serif;
+}
+
+.ferrari-brand-logo {
+  width: 310px;
+}
